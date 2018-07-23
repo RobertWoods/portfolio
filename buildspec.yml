@@ -1,0 +1,14 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo No building to do
+
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - resume.docx
+    - images/*
+    - styles/*
