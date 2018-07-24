@@ -9,6 +9,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - resume.*
+    - resume.pdf
     - images/*
     - styles/*
