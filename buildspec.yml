@@ -12,3 +12,4 @@ artifacts:
     - resume.pdf
     - images/*
     - styles/*
+    - react.html
