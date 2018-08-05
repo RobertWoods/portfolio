@@ -5,7 +5,8 @@ phases:
     commands:
       - npm install
       - cd node_modules/jest
-      - echo ls
+      - ls
+      - cd ../../
       - npm test
   build:
     commands:
